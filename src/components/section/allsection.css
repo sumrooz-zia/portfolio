@@ -1,0 +1,373 @@
+
+.hOmebACk {
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+  
+  
+  .InFOhoME span {
+    font-size: 24px;
+    color: #0064b3;
+  }
+  .InFOhoME h1 {
+    color:green;
+    width: 100%;
+    font-family: poppins,ui-serif;
+    font-weight: 600;
+  }
+  .InFOhoME P {
+    width: 90%;
+    color: black;
+    margin-top: 40px;
+  
+  }
+  button.btn.btn-green {
+    background-color: #0064b3;
+    color: white;
+    border-radius: 42px;
+    font-weight: 500;
+  }
+  button.btn.btn-green:hover {
+    background-color: #00b309;
+    color: white;
+    border-radius: 42px;
+  
+  }
+  .imagesecton {
+    margin-top: 60px;
+    /* margin-left: 30px; */
+  }
+  img.CARDIMG.card-img-top {
+    WIDTH: 50%;
+    MARGIN-LEFT: 73px;
+    padding: 20px 20px 20px 20px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* about-info  */
+  .aboutme {
+    padding-bottom: 80px;
+    padding-top: 70px;
+    background-color: #5ea237;
+  }
+  .aboutme h1 {
+    font-size: 43px;
+    line-height: 40px;
+    text-align: center;
+    font-family: poppins,ui-serif;
+    FONT-WEIGHT: 700;
+    PADDING-TOP: 40px;
+    LETTER-SPACING: 7PX;
+    color: #ffffff;
+  }
+  
+  button.dropdown-toggle.btn.btn-secondary {
+    BACKGROUND-COLOR: white;
+    COLOR: BLACK;
+    BORDER: 1PX SOLID #e1dede;
+    FONT-SIZE: 16PX;
+    FONT-FAMILY: poppins,ui-serif;
+  }
+  .aboutme p {
+    width: 100%;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    font-family: poppins,ui-serif;
+    FONT-WEIGHT: 400;
+    PADDING-TOP: 10px;
+    color: #ffffff;
+  
+  }
+  button.devement.btn.btn-secondary {
+    BACKGROUND-COLOR: #0064b3;
+    /* text-align: center; */
+    margin-left: 80px;
+  }
+  button.devement.btn.btn-secondary:hover {
+    BACKGROUND-COLOR: #00b309;
+    /* text-align: center; */
+  }
+  .heding.card-title {
+    text-align: center;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 24px;
+  }
+  .heading.card-subtitle {
+    text-align: center;
+    font-size: 18px;
+  
+  }
+  p.prising.card-text {
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-family: poppins,ui-serif;
+    font-weight: 500;
+  }
+  .ambititu {
+    margin-top: 24px;
+  }
+  svg.bi.bi-rocket {
+    color: #5ea237;
+  }
+  svg.bi.bi-diagram-3 {
+    color: #5ea237;
+  }
+  svg.bi.bi-chat-left-heart {
+    color: #5ea237;
+  
+  }
+  svg.bi.bi-box {
+    color: #5ea237;
+  
+  }
+  .OURValues {
+    padding-bottom: 40px;
+    padding-top: 40px;
+  }
+  .whychose{
+  background-image: url(../../images/bANner.png);
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+  background-size: cover;
+  height: 470px;
+  }
+  h1.why {
+    color: white;
+    margin-top: 60px;
+    font-weight: 600;
+    font-family: poppins,ui-serif;
+  }
+  
+  li.list-group-item svg {
+    margin-right: 6px;
+  }
+  .whychose {
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  li.listitam.list-group-item {
+    color: white;
+    width: 82%;
+    line-height: 30px;
+  }
+  /* ul.nav.nav-tabs {
+    margin-left: 33%;
+  } */
+  .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #fffdfd !important;
+    background-color: #1973ba !important;
+    border-color: var(--bs-nav-tabs-link-active-border-color);
+  }
+  
+  .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+    color: #fffdfd;
+    background-color: #06c906;
+    border-color: var(--bs-nav-tabs-link-active-border-color);
+  }
+  svg.bi.bi-boxes {
+    color: #1973ba;
+  }
+  textarea#exampleText {
+    height: 146px;
+  }
+  button.btncard.btn.btn-secondary {
+    width: 50%;
+    background-color: green;
+  }
+  .logoimgs {
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  
+  .dEAILPRO.card:HOVeR {
+    BACKGROUND-COLOR: #5ea237;
+    color: white;
+  }
+  button.readmore.btn.btn-secondary {
+    background-color: #0064b3;
+  }
+  button.readmore.btn.btn-secondary:hover {
+    background-color: #06b300;
+  }
+  img.trangleimages {
+    border-top-right-radius: 100%;
+    /* border-bottom-right-radius: 100%; */
+  }
+  .blue-img{
+    border-top-left-radius: 100%;
+    /* border-bottom-left-radius: 100%; */
+  }
+  img.secconduiux {
+    border-top-left-radius: 200%;
+    border-bottom-left-radius: 200%;
+  }
+  img.seccondseo {
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+  }
+  .seoDesign {
+    MARGIN-TOP: 60PX;
+    MARGIN-BOTTOM: 70PX;
+  }
+  .seoDesigndetails P {
+    PADDING-RIGHT: 90PX;
+  }
+  img.happcustomer {
+    float: left;
+    margin-top: 10px;
+  }
+  img.lineofcode {
+    float: left;
+    margin-top: 10px;
+  }
+  .Agiledetails {
+    /* margin-left: 221px; */
+    margin-top: 81px;
+  }
+  .Agiledetails p {
+    font-size: 22px;
+  }
+  .Agiledetails h1 {
+    font-family: poppins,ui-serif;
+    font-weight: 600;
+    font-size: 34px;
+    padding-bottom: 30px;
+  }
+  p.happyc {
+    font-size: 20px;
+  }
+  .projec {
+    padding-bottom: 30px;
+    padding-top: 100px;
+  }
+  .projec h2 {
+    text-align: CENTER;
+    font-size: 40px;
+    FONT-FAMILY: poppins,ui-serif;
+    font-weight: 600;
+    margin-bottom: 40px;
+  }.whychose {
+    margin-top: 30px;
+    margin-bottom: 120px;
+  }
+  
+  .UIUXDesigndetails h1 {
+    font-family: poppins,ui-serif;
+    font-size: 34px;
+    font-weight: 600;
+  }
+  .UIUXDesigndetails {
+    padding-left: 80px;
+  }
+  .UIUXDesign {
+    margin-bottom: 50px;
+    margin-top: 65px;
+  }
+  .seocolor {
+    background-image: url(http://localhost:3000/static/media/seoup.9e30eb2….png);
+    background-repeat: no-repeat, repeat;
+    background-size: CONTAIN;
+    MARGIN-LEFT: 150PX;
+  }
+  img.seodeg {
+    margin-left: 78px;
+    margin-top: 70px;
+  }
+  img.location-img {
+   margin-left: 0px;
+  }
+  .emailfom p {
+    margin-top: 27px;
+  }
+  button.sumitbtn.btn.btn-secondary {
+    width: 100%;
+    margin-top: 13px;
+    background-color: #0064b3;
+  }
+  button.sumitbtn.btn.btn-secondary:hover {
+    background-color: #0fb300;
+  }
+  .signup-form {
+    margin-top: 80px;
+    margin-bottom: 110px;
+  }
+  h1.contactus {
+    FONT-SIZE: 40PX;
+    FONT-WEIGHT: 600;
+    TEXT-ALIGN: CENTER;
+    MARGIN-TOP: -54px;
+  }
+  .formmenu {
+    PADDING-LEFT: 56PX;
+  }
+  /* media querys mobile size */
+  @media screen and (max-width: 360px) {
+   
+    .hOmebACk {
+      padding-top: 100px  !important;
+      PADDING-LEFT: 32PX;
+  }
+  .InFOhoME P {
+    margin-top: 29px;
+  }
+  img.weddevc-img {
+    display: none;
+  }
+  .aboutme {
+    padding-bottom: 177px;
+    padding-top: 80px;
+  }
+  .aboutme p {
+    font-size: 18px;
+    line-height: 30px;
+    float: left;
+    FONT-WEIGHT: 400;
+    PADDING-TOP: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .satiSFY {
+    padding-bottom: 36px;
+  }
+  .UIUXDesigndetails {
+    padding-left: 18px;
+  }
+  
+  .seocolor {
+    MARGIN-LEFT: 0px;
+  }
+  img.seodeg {
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  .seoDesigndetails h1 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 50px;
+  }
+  .whychose {
+    height: 624px;
+  }
+  .whychose {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding-left: 36px;
+    background: #0064b3;
+  }
+  .formmenu {
+    PADDING-LEFT: 14PX;
+  }
+  
+  }

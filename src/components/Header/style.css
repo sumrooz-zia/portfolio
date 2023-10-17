@@ -1,0 +1,57 @@
+.logomaker {
+    width: 25%;
+    text-align: center;
+}
+.link-section {
+    width: 80%;
+    align-items: center;
+}
+.CONTACT-FORM {
+    width: 15%;
+    text-align: center;
+}
+nav.navbar.navbar-expand-md.navbar-light {
+    box-shadow: 0px 1px 10PX #888888;
+    /* POSITION: fixed; */
+    width: 100%;
+    background-color: white;
+}
+.CONTACT-FORM button {
+    background-color: #1973ba;
+    color: white;
+    FONT-SIZE: 16PX;
+    FONT-WEIGHT: 400;
+    FONT-FAMILY: LATO,FANGSONG;
+}
+.CONTACT-FORM button:hover {
+    background-color: #5ea237;
+    
+    color: white;
+}
+.link-section UL {
+    FONT-SIZE: 20PX;
+    FONT-WEIGHT: 400;
+    FONT-FAMILY: LATO,FANGSONG;
+    TEXT-DECORATION: double;
+    TEXT-TRANSFORM: uppercase;
+}
+button.dropdown-toggle.btn.btn-secondary {
+    BACKGROUND-COLOR: white !important ;
+    COLOR: #595959 !important;
+    BORDER: 1PX SOLID #ffffff !important;
+    FONT-SIZE: 16PX !important;
+    FONT-FAMILY:LATO,FANGSONG;
+    text-transform: uppercase;
+}
+button.WHATWEDO.btn.btn-secondary {
+    BACKGROUND: NONE;
+    COLOR: #000000bd;
+    BORDER: NONE;
+    FONT-SIZE: 20PX;
+    font-family: LATO,FANGSONG;
+    FONT-WEIGHT: 500;
+    MARGIN-TOP: 4Px;
+}
+button.btn.btn-secondary {
+    background: #006aa7;
+}

@@ -1,0 +1,142 @@
+.prisebackgrond {
+    background-image: url(../../images/1BNANne.png);
+background-repeat: no-repeat, repeat;
+background-color: #cccccc;
+background-size: cover;
+height: 470px;
+}
+
+.pricingpage h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: lato,sans-serif;
+    color: #ffffff;
+    padding-top: 200px;
+}
+.pricingpage h2 {
+    font-size: 50px;
+    color: #fecc00;
+    font-weight: 700;
+    font-family: Raleway , sans-serif;
+    line-height: 50px;
+    /* margin-left: 116px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+h2.webdev span {
+    color: #f9f9f9;
+}
+.Bacis.Package h3 {
+    font-size: 32px;
+    font-weight: 500;
+    margin-left: 18px;
+    padding-top: 15px;
+    color: #0768b4;
+    font-family: lato,sans-serif;
+}
+.busnies h4 {
+    font-size: 30px;
+    margin-left: 20px;
+    color: #5ea237;
+    font-weight: 700;
+}
+.busnies span {
+    font-size: 16px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+.smaller p {
+    font-size: 18px;
+    margin-top: 8px;
+    margin-left: -10px;
+}
+.OLLITAGLE.card-body OL LI {
+    FONT-SIZE: 18PX;
+    line-height: 40px;
+}
+button.BUYNOW.btn.btn-secondary {
+    WIDTH: 100%;
+    HEIGHT: 50PX;
+    BORDER-RADIUS: 50PX;
+    FONT-SIZE: 22PX;
+    BACKGROUND-COLOR: #0064b3;
+}
+button.BUYNOW.btn.btn-secondary:hover {
+    WIDTH: 100%;
+    HEIGHT: 50PX;
+    BORDER-RADIUS: 50PX;
+    FONT-SIZE: 22PX;
+    BACKGROUND-COLOR:  #5ea237;
+}
+h2.webdevUIUX span {
+    color: #5ea237;
+}
+h2.webdevUIUX {
+    font-size: 50px;
+    /* text-align: center; */
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+h2.webdevseo {
+    font-size: 50px;
+    /* text-align: center; */
+    padding-top: 70px;
+    padding-bottom: 60px;
+    
+}
+h2.webdevseo span {
+    color: #5ea237;
+}
+h2.webdevshopword span {
+    color: #5ea237;
+}
+h2.webdevshopword {
+    font-size: 50px;
+    /* text-align: center; */
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.Packages {
+    margin-top: 80px;
+}
+.Packagesshop {
+    padding-bottom: 90px;
+}
+@media screen and (max-width: 360px) {
+    .pricingpage h2 {
+        font-size: 32px;
+        font-weight: 600;
+        font-family: Raleway , sans-serif;
+        line-height: 43px;
+        text-align: center;
+        margin-left: 22px;
+        padding-bottom: 20px;
+    }
+    .pricingpage {
+        padding-top: 110px;
+    }
+    .pricingpage h1 {
+        text-align: center;
+        font-size: 40px;
+        font-weight: 600;
+        font-family: lato,sans-serif;
+        color: #ffffff;
+        margin-top: -170px;
+    }
+    .pricingpage h2 {
+        font-size: 26px;
+        font-weight: 600;
+        font-family: Raleway , sans-serif;
+        line-height: 40px;
+        text-align: center;
+        margin-left: 0px;
+        padding-bottom: 20px;
+    }
+    .smaller p {
+        font-size: 18px;
+        margin-top: 8px;
+        margin-left: 17px;
+    }
+}

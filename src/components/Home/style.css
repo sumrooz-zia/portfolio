@@ -1,0 +1,350 @@
+/* .slidermain {
+    padding-top: 77Px;
+} */
+.WebDevelopment h1 {
+  COLOR: #FFf;
+}
+
+.WebDevelopment p {
+  COLOR: #FfF;
+}
+
+.carousel-caption {
+  background-color: #43407e7a !important;
+}
+
+.sEEALL.card-title {
+  font-size: 35px;
+  font-weight: 500;
+  FONT-FAMILY: POPPINS, SANS-SERIF;
+  padding-bottom: 12px;
+  text-align: center;
+  line-height: 38px;
+}
+
+button.Allservices.btn.btn-secondary {
+  text-align: CENTER;
+  padding: 14px 40px 14px 40px;
+  align-items: CENTER;
+  MARGIN-LEFT: 24PX;
+  BACKGROUND-COLOR: #756aee;
+  FONT-SIZE: 20PX;
+  LINE-HEIGHT: 30PX;
+  BORDER: NONE;
+}
+
+button.Allservices.btn.btn-secondary:HOVER {
+  BACKGROUND: rgb(14, 14, 14);
+}
+
+.CARDSETTING {
+  padding-top: 80PX;
+  PADDING-BOTTOM: 40PX;
+}
+
+.CARDSETTING hr {
+  width: 40%;
+  margin-left: 67px;
+  padding-bottom: 20px;
+  color: blue;
+}
+
+.Solution hr {
+  width: 40%;
+  margin-left: 67px;
+  padding-bottom: 12px;
+  color: blue;
+}
+
+.Solution {
+  padding-top: 80PX;
+
+}
+
+.card-subtitle {
+  font-size: 16px;
+}
+
+.seeall {
+  PADDING-TOP: 100PX;
+  padding-bottom: 100px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.Projects h1 {
+  text-align: center;
+  FONT-SIZE: 40PX;
+  font-family: SANS-SERIF;
+  FONT-WEIGHT: 500;
+}
+
+.Projects P {
+  text-align: CENTER;
+  WIDTH: 60%;
+  FONT-SIZE: 18Px;
+  MARGIN-LEFT: 250px;
+  margin-top: 24px;
+  padding-bottom: 50px;
+}
+
+ul.nav.nav-tabs {
+  MARGIN-LEFT: 29%;
+  FONT-SIZE: 18pX;
+  text-transform: uppercase;
+  PADDING-BOTTOM: 30Px;
+}
+
+.tab-pane.active {
+  padding-bottom: 90PX;
+}
+
+img.phonecaLL.card-img {
+  width: 20;
+  width: 32%;
+  margin-left: 60px;
+}
+
+h3.title-decoration {
+  font-size: 50px;
+}
+
+p.TeXTDream {
+  WIDTH: 70%;
+  font-size: 22Px;
+  COLOR: #676c91;
+  padding-bottom: 50px;
+}
+
+a.button.button-secondary.button-pipaluk:hover {
+  background-color: #000;
+
+}
+
+a.button.button-secondary.button-pipaluk {
+  color: white;
+  background-color: #756aee;
+  PADDING: 14PX 30PX 14PX 30PX;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.counter-amy-number {
+  FONT-SIZE: 80PX;
+}
+
+.counter-amy H6 {
+  font-size: 18Px;
+  color: #676c91;
+}
+
+.yeArExPr {
+  PADDING-BOTTOM: 80PX;
+}
+
+.LOgoslide img {
+  padding: 20px 20px 20px 20px;
+}
+
+.LOgoslide img:hover {
+  border: 1px solid;
+  zoom: normal;
+  color: yellowgreen;
+}
+
+.LOgoslide {
+  padding-bottom: 80px;
+}
+
+.meetteem h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.production {
+  background-image: url('../../images/whitesam.png');
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  width: 100%;
+  height: 270px;
+  PADDING-TOP: 123PX;
+}
+
+.JillPeterson {
+  background-image: url('../../images/uIDESSGN.jpg');
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  width: 100%;
+  height: 270px;
+  PADDING-TOP: 123PX;
+}
+
+.Senior {
+  background-image: url('../../images/nomi.png');
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  width: 100%;
+  height: 270px;
+  PADDING-TOP: 123PX;
+}
+
+.sam {
+  background-image: url('../../images/sam.jpg');
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  width: 100%;
+  height: 270px;
+  PADDING-TOP: 123PX;
+}
+
+.directrr h1 {
+  font-size: 24px;
+  color: white;
+  margin-right: 31px;
+}
+
+.directrr {
+  BACKGROUND-COLOR: #5e5555c7;
+  WIDTH: 80%;
+  BORDER-BOTTOM-RIGHT-RADIUS: 33PX;
+  PADDING: 10px 10px 10px 10px;
+  margin-left: 12px;
+  margin-top: 40PX;
+}
+
+.directrr p {
+  color: white;
+  margin-left: 12px;
+}
+
+.meetteem {
+  padding-bottom: 100px;
+  /* padding-top: 40px; */
+}
+
+.TABTIMELINE ul {
+  font-size: 30px;
+  letter-spacing: 23px;
+  letter-spacing: 1.024em;
+  color: mediumslateblue;
+  font-weight: 700;
+}
+hr.icon {
+  COLOR: BlUE;
+  WIDTH: 70%;
+}
+.tab-content.FrraP {
+  MARGIN-TOP: 30PX;
+}
+.TABTIMELINE li {
+  font-size: 30px;
+
+  color: mediumslateblue;
+}
+
+a.active.nav-link {
+  color: #01ab00;
+}
+button.getintouch.btn.btn-secondary {
+  BACKGROUND-COLOR: blue;
+  padding: 14pX 30PX 14px 30PX;
+  border: 1pX solid;
+  font-size: 18px;
+  font-weight: 600;
+}
+button.getintouch.btn.btn-secondary:hover {
+  BACKGROUND-COLOR:BlacK;
+}
+button.preSenTAtIon.btn.btn-secondary {
+  BACKGROUND-COLOR: #7e7e870d;
+  padding: 14pX 50PX 14px 50PX;
+  border: 2pX solid #0c08d947;
+  font-size: 18px;
+  font-weight: 600;
+  MARGIN-LEFT: 30px;
+  COLOR: black;
+}
+.TABTIMELINE p {
+  width: 71%;
+  font-size: 18px;
+}
+.TIMELINE {
+  padding-bottom: 80pX;
+}
+@media only screen and (max-width: 460px) {
+  .Projects P {
+    WIDTH: 80%;
+    FONT-SIZE: 14Px;
+    MARGIN-LEFT: 37px;
+    margin-top: 24px;
+    padding-bottom: 50px;
+  }
+
+  ul.nav.nav-tabs {
+    MARGIN-LEFT: 0%;
+  }
+
+  img.phonecaLL.card-img {
+    width: 50%;
+    MARGIN-LEFT: 42px;
+  }
+
+  h3.title-decoration {
+    margin-top: 18PX;
+    font-size: 33px;
+    margin-left: 22px;
+  }
+
+  a.button.button-secondary.button-pipaluk {
+
+    MARGIN-LEFT: 20PX;
+  }
+
+  .meetteem h1 {
+    font-size: 32px;
+  }
+
+  p.TeXTDream {
+    WIDTH: 90%;
+    font-size: 17Px;
+    COLOR: #676c91;
+    padding-bottom: 50px;
+    margin-left: 24px;
+  }
+
+  .carousel-caption h1 {
+    font-size: 26PX;
+    font-weight: 700;
+    WIDTH: 100%;
+  }
+
+  .carousel-caption {
+    position: absolute;
+    right: 5% !important;
+    bottom: 1.25rem;
+    left: 5% !important;
+    padding-top: 1.25rem;
+    padding-bottom: 3.25rem !important;
+    color: #ffF !important;
+    text-align: center;
+    background-color: #43407e7a !important;
+  }
+
+  img.card-img-top {
+    height: 300px;
+  }
+
+  .WebDevelopment P {
+    font-size: 15px;
+    width: 100%;
+    color: white;
+  }
+
+  .WebDevelopment h1 {
+    color: white;
+  }
+}

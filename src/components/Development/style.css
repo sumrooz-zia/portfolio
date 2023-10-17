@@ -1,0 +1,175 @@
+/* .development {
+    background-image: url(../../images/1BNANne.png);
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+    background-size: cover;
+    height: 470px;
+} */
+
+.Weprovide span {
+    color: #0064b3;
+    font-weight: 800;
+    font-size: 14px;
+}
+.emailfom img {
+    float: LEFT;
+    MARGIN-TOP: 3PX;
+}
+
+.Weprovide h1 {
+    color: #00b300;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    padding-bottom: 20px;
+    padding-top: 12px;
+}
+.Weprovide p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+button.btn.btn-blue:hover {
+    background-color: #00b309;
+    color: white;
+  }
+  button.btn.btn-blue {
+    background-color: #3b31c7;
+    color: white;
+    margin-top: 30px;
+}
+
+.cardback.card-body {
+    background-color: #006aa7;
+    color: white;
+    font-size: 24px;
+    width: 100%;
+    padding: 60px 20px 96px 20px;
+}
+.ecommercepro.card-body {
+    background-color: #006aa7;
+    color: white;
+    font-size: 24px;
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+}
+.ModernIT {
+    margin-top: 61px;
+}
+.turnover.card-body {
+    background-color: #006aa7;
+    color: white;
+    font-size: 24px;
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+}
+.createquality h2 {
+    font-size: 44px;
+    line-height: 52px;
+    font-weight: 700;
+    font-family: Raleway , sans-serif;
+}
+.createquality {
+    padding-left: 40px;
+}
+.createquality span {
+    color: #1a73e8;
+}
+.sek.card-title {
+    font-size: 25px;
+    font-weight: 700;
+}
+.competition h1 {
+    font-size: 45px;
+    line-height: 56px;
+    font-weight: 700;
+    font-family: Raleway , sans-serif;
+}
+.competition span{
+    color: #1a73e8;
+
+}
+.competition p {
+    font-size: 18px;
+    width: 70%;
+    padding: 20px;
+}.methodologyy ul {
+    font-size: 18px;
+    line-height: 30px;
+}
+.competitionn {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 90px;
+    padding-top: 100px;
+}
+.chooseus {
+    padding-left: 93px;
+}
+.Whyshould h1 {
+    font-size: 45px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.methodology img {
+    margin-left: 90px;
+}.methodo {
+    padding-right: 80px;
+    padding-left: 90px;
+    padding-top: 90px;
+    padding-bottom: 80px;
+}.methodologyy h1 {
+    font-size: 46px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #1a73e8;
+    padding-top: 20px;
+}img.codingimg {
+    margin-left: 120px;
+}
+
+@media screen and (max-width: 360px) {
+    img.codingimg {
+        margin-left: 12px;
+    }
+    .Weprovide h1 {
+        line-height: 45px;
+        width: 121%;
+    }
+    .Weprovide span {
+        font-size: 25px;
+    }
+    .Weprovide p {
+        line-height: 26px;
+        width: 127%;
+    }
+    button.btn.btn-blue {
+        MARGIN-BOTTOM: 67PX;
+    }
+    .ModernIT {
+        margin-top: -52px;
+        margin-bottom: 65px;
+        margin-left: 30px;
+    }
+    .hOmebACk {
+        padding-top: 150px;
+        PADDING-LEFT: 32PX;
+    }
+    .createquality {
+        WIDTH: 126%;
+    }
+    .createquality h2 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .competitionn {
+        WIDTH: 130%;
+    }
+    .competition p {
+        width: 110%;
+    }
+    .methodo {
+       padding: 0px;
+       padding-left: 80px;
+    }
+}

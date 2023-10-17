@@ -1,0 +1,33 @@
+.fOotermaNI {
+    BACKGROUND-COLOR: #070352;
+    PADDING-BOTTOM: 30PX;
+    PADDING-TOP: 30px;
+}
+.logoFOOTER H3 {
+    COLOR: white;
+    font-size: 16px;
+    width: 90%;
+    MARGIN-TOP: 23PX;
+}
+
+.infOForm H6 {
+    color: WHITE;
+    margin-top: 25px;
+    font-size: 18PX;
+    font-weight: 600;
+}
+.infOForm p {
+    color: WHITE;
+    margin-top: 25px;
+    font-size: 14PX;
+    font-weight: 600;
+}
+.CONTENT-FORM h1 {
+    color: white;
+    font-size: 30px;
+}
+.CONTENT-FORM lAbel {
+    COLOR: white;
+    font-size: 20PX;
+    font-weight: 600;
+}
